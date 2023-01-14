@@ -1,13 +1,30 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<h4> About Me </h4>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS**
+I am _Varun Kumar_. I have strong media and communication professional with a Bachelor of Technology focused in Information Science and engineering from _RNS Institute of Technology_. I have experience to code in C++, C#, Java, Python and JavaScript. I have development experience in Backend, Android, Full Stack Development, MERN in Java, .NET Framework, NodeJS and ExpressJS. My activities beyond my stream of education includes my interest in fitness, cooking and team fun.⚡ I am a extrovert and love being involved in organizational works related to clubs, hackathons and workshops. 
 
-- 👨‍💻 All of my projects are available at [https://github.com/fast-tortoise](https://github.com/fast-tortoise)
+
+### 🌱 What do I do and What have I done? 
+- 👨‍💻 I’m currently learning **NodeJS and ReactJS** with hands-on projects.
+- 👨‍💻 I’m currently doing course on **Backend development** on Udemy along with my internship.
+- 👨‍💻 I’ve worked with .NET Framework **.NET Framework** in my internship with Maersk.
+- 👨‍💻 I've learned writing **Clean code** and have done the same for my team during internship.
+- 👨‍💻 I've worked on **ETL** process of data and an **API integration** in one month intership.
+- 👨‍💻 I've worked to develop **Android project** on food delivery in final year college.
+- 👨‍💻 I participated and helped to conduct Google Workshop on **Web Development** in final year for juniors.
+
+
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+
+### 🌍All of my projects are available at [https://github.com/fast-tortoise](https://github.com/fast-tortoise)
 
 - 📫 How to reach me **1rn18is121@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Je1ZBWxh_38BuVn-USjz9A8OyRgJeHNa/view?usp=sharing](https://drive.google.com/file/d/1Je1ZBWxh_38BuVn-USjz9A8OyRgJeHNa/view?usp=sharing)
+
+### ⚡ One line that describes me best? 
+An ambitious person who loves to code, connect, compete, collaborate and sometime cooks too.😉😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
