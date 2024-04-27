@@ -21,7 +21,7 @@ I am always excited to absorb knowledge🧠,gain experience 🏭, collaborate�
 - 📫 How to reach me **varun.kumar.sde@gmail.com, 1rn18is121@gmail.com**
 
 - 📄 Know about my experiences
-- [Resume2024](https://drive.google.com/file/d/1Je1ZBWxh_38BuVn-USjz9A8OyRgJeHNa/view?usp=sharing)
+- [Resume2024](https://drive.google.com/file/d/13Sx8qKiEFaxV3YcB3GgGlVTKK68AxGN1/view?usp=drive_link)
 - [Resume2023](https://drive.google.com/file/d/1Je1ZBWxh_38BuVn-USjz9A8OyRgJeHNa/view?usp=sharing)
 
 ### ⚡ One line that describes me best? 
