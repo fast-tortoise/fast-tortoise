@@ -6,8 +6,8 @@ I am _Varun Kumar_. I have strong media and communication professional with a Ba
 
 
 ### 🌱 What do I do and What have I done? 
-- 👨‍💻 I’m experienced **MERN with typescript** with multilple complex hands-on projects, both personal and for organizations.
 - 👨‍💻 I’ve worked extensively with **.NET Framework in C# with Azure** while developing projects for the company.
+- 👨‍💻 I’m experienced **MERN with typescript** with multilple complex hands-on projects, both personal and for organizations.
 - 👨‍💻 I’ve firm grasp on **Kafka**.
 - 👨‍💻 I’ve strong command in **Kubernetes, GitHub workflows and Docker**.
 - 👨‍💻 I’ve knowledge in **Grafana, Hedwing alerts and Hashicorp vaults**.
