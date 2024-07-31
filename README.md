@@ -22,7 +22,6 @@ I am always excited to absorb knowledge🧠,gain experience 🏭, collaborate�
 
 - 📄 Know about my experiences
 - [Resume2024](https://drive.google.com/file/d/13Sx8qKiEFaxV3YcB3GgGlVTKK68AxGN1/view?usp=drive_link)
-- [Resume2023](https://drive.google.com/file/d/1Je1ZBWxh_38BuVn-USjz9A8OyRgJeHNa/view?usp=sharing)
 
 ### ⚡ One line that describes me best? 
 An ambitious person who loves to code, connect, compete, collaborate and sometime cooks too.😉😉
