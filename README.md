@@ -2,10 +2,11 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 <h4> About Me </h4>
 
-I am _Varun Kumar_. I have strong media and communication professional with a Bachelor of Technology focused in Information Science and engineering from _RNS Institute of Technology_. I have experience to code in C++, C# and JavaScript. I have development experience in Backend, Full Stack Development, MERN in Javascript and Typescript, .NET Framework, NodeJS and ExpressJS. My activities beyond my stream of education includes my interest in fitness, cooking and team fun.⚡ I am a extrovert and love being involved in organizational works related to clubs, hackathons and workshops. 
+I am _Varun Kumar_. I have strong media and communication professional with a Bachelor of Technology focused in Information Science and engineering from _RNS Institute of Technology_. I have experience to code in NodeJs, C# and JavaScript. I have development experience in Backend, Full Stack Development, MERN in Javascript and Typescript, .NET Framework, NodeJS and ExpressJS. My activities beyond my stream of education includes my interest in fitness, cooking and team fun.⚡ I am a extrovert and love being involved in organizational works related to clubs, hackathons and workshops. 
 
 
 ### 🌱 What do I do and What have I done? 
+- 👨‍💻 I’ve worked extensively with **Python, Databricks and Spark** for data projects for the company.
 - 👨‍💻 I’ve worked extensively with **.NET Framework in C# with Azure** while developing projects for the company.
 - 👨‍💻 I’m experienced **MERN with typescript** with multilple complex hands-on projects, both personal and for organizations.
 - 👨‍💻 I’ve firm grasp on **Kafka**.
