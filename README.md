@@ -2,15 +2,12 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 <h4> About Me </h4>
 
-I am _Varun Kumar_. I have strong media and communication professional with a Bachelor of Technology focused in Information Science and engineering from _RNS Institute of Technology_. I have experience to code in NodeJs, C# and JavaScript. I have development experience in Backend, Full Stack Development, MERN in Javascript and Typescript, .NET Framework, NodeJS and ExpressJS. My activities beyond my stream of education includes my interest in fitness, cooking and team fun.⚡ I am a extrovert and love being involved in organizational works related to clubs, hackathons and workshops. 
+I am _Varun Kumar_. I have strong media and communication professional with a Bachelor of Technology focused in Information Science and engineering from _RNS Institute of Technology_. I have experience to code in NodeJs, Java and JavaScript. I have development experience in Backend, Full Stack Development, Javascript, Spring boot, Node Js.⚡ I am a extrovert and love being involved in organizational works related to clubs, hackathons and workshops. 
 
 
 ### 🌱 What do I do and What have I done? 
-- 👨‍💻 I’ve worked extensively with **Python, Databricks and Spark** for data projects for the company.
-- 👨‍💻 I’ve worked extensively with **.NET Framework in C# with Azure** while developing projects for the company.
-- 👨‍💻 I’m experienced **MERN with typescript** with multilple complex hands-on projects, both personal and for organizations.
-- 👨‍💻 I’ve firm grasp on **Kafka**.
-- 👨‍💻 I’ve strong command in **Kubernetes, GitHub workflows and Docker**.
+- 👨‍💻 I’ve worked extensively with **Java, Spring Boot, C#, Dotnet, Azure** for projects in company.
+- 👨‍💻 I’ve strong command in **Kafka, Kubernetes, Terraform GitHub workflows**.
 - 👨‍💻 I’ve knowledge in **Grafana, Hedwing alerts and Hashicorp vaults**.
 - 👨‍💻 I've practiced **Clean code, SOLID Principles and Low level design** in all the organizational projects.
 - 👨‍💻 I've learned the art of **Continuous learning, Problem Solving and Debugging**.
@@ -22,14 +19,14 @@ I am always excited to absorb knowledge🧠,gain experience 🏭, collaborate�
 - 📫 How to reach me **varun.kumar.sde@gmail.com, 1rn18is121@gmail.com**
 
 - 📄 Know about my experiences
-- [Resume2024](https://drive.google.com/file/d/13Sx8qKiEFaxV3YcB3GgGlVTKK68AxGN1/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/14jL0k6rpIeUbs80cUiFVP7Fhu3ipJ34t/view?usp=sharing)
 
 ### ⚡ One line that describes me best? 
 An ambitious person who loves to code, connect, compete, collaborate and sometime cooks too.😉😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/varun-kumar-874b2217b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-kumar-874b2217b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/varun-kumar-sde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-kumar-874b2217b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/1rn18is121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1rn18is121" height="30" width="40" /></a>
 </p>
 
