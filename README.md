@@ -6,10 +6,10 @@ I am _Varun Kumar_. I have strong media and communication professional with a Ba
 
 
 ### 🌱 What do I do and What have I done? 
-- 👨‍💻 I’ve worked extensively with **Java, Spring Boot, C#, Dotnet, Azure** for projects in company.
+- 👨‍💻 I’ve worked extensively with **Java, Spring Boot, C#, Dotnet, Azure**.
 - 👨‍💻 I’ve strong command in **Kafka, Kubernetes, Terraform GitHub workflows**.
 - 👨‍💻 I’ve knowledge in **Grafana, Hedwing alerts and Hashicorp vaults**.
-- 👨‍💻 I've practiced **Clean code, SOLID Principles and Low level design** in all the organizational projects.
+- 👨‍💻 I've practiced **Clean code, SOLID Principles and Low level design**.
 - 👨‍💻 I've learned the art of **Continuous learning, Problem Solving and Debugging**.
 
 I am always excited to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
