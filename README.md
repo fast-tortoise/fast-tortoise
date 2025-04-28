@@ -18,8 +18,6 @@ I am always excited to absorb knowledge🧠,gain experience 🏭, collaborate�
 
 - 📫 How to reach me **varun.kumar.sde@gmail.com, 1rn18is121@gmail.com**
 
-//- 📄 Know about my experiences
-//- [Resume](https://drive.google.com/file/d/1NF7pJ0tNzUO3OUJXq_UG9819sGj2bzjH/view?usp=sharing)
 
 ### ⚡ One line that describes me best? 
 An ambitious person who loves to code, connect, compete, collaborate and sometime cooks too.😉😉
