@@ -16,7 +16,7 @@ I am always excited to absorb knowledge🧠,gain experience 🏭, collaborate�
 
 ### 🌍All of my projects are available at [https://github.com/fast-tortoise](https://github.com/fast-tortoise)
 
-- 📫 How to reach me **varun.kumar.sde@gmail.com, 1rn18is121@gmail.com**
+- 📫 How to reach me **varun.kumar.sde@gmail.com**
 
 
 ### ⚡ One line that describes me best? 
