@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 <h4> About Me </h4>
 
-I am _Varun Kumar_. I have strong media and communication professional with a Bachelor of Technology focused in Information Science and engineering from _RNS Institute of Technology_. I have experience to code in C#, Java and JavaScript. I have development experience in Backend and Full Stack Development.⚡ I am a extrovert and love being involved in organizational works related to clubs, hackathons and workshops. 
-
+I am _Varun Kumar_. I have completed Bachelor of Technology focused in Information Science and engineering from _RNS Institute of Technology_. I have experience to code in Kotlin, Java and C#.
 
 ### 🌱 What do I do and What have I done? 
 - 👨‍💻 I’ve worked extensively with **Java, Spring boot, C#, Dotnet, Azure**.
@@ -12,21 +11,27 @@ I am _Varun Kumar_. I have strong media and communication professional with a Ba
 - 👨‍💻 I've practiced **Clean code, SOLID Principles and Low level design**.
 - 👨‍💻 I've learned the art of **Continuous learning, Problem Solving and Debugging**.
 
+### Some noteworthy accomplishments:
+1. Transformed an underperforming CRUD service into a scalable system by redesigning ingestion and retrieval workflows,  succesfully delivering **5X** faster processing and sustained performance under 3X higher load.
+
+2. Created data migration project facilitating transfer of processed data from blob storage to Kafka topics with robust state management and disaster recovery mechanisms. Delivered project within tight deadlines.
+
+3. Rapidly developed a console application to rectify a critical production issue, successfully republishing 2,000,000 messages through Service Bus. Ensured real‑time event updates, restored production environment normalcy, and prevented significant downtime.
+
+4. Refactored POC code to production quality, implemented SOLID principles, 3‑layered architecture, reduced duplication from 40% to 5%, increased unit test coverage from 55% to 90%, enhancing readability, navigation and modification the code base.
+
 I am always excited to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 ### 🌍All of my projects are available at [https://github.com/fast-tortoise](https://github.com/fast-tortoise)
 
 - 📫 How to reach me **varun.kumar.sde@gmail.com**
 
+### Companies I have worked with:
+<img width="300" height="68" alt="Maersk_Group_Logo svg" src="https://github.com/user-attachments/assets/64e1363a-9f99-49d8-a79b-2ec61be04daa" />
+<img width="300" height="68" alt="purepng com-target-logologobrand-logoiconslogos-251519939151pkaty" src="https://github.com/user-attachments/assets/743b724f-bbf7-4cc6-ad8c-ecad82e72aef" />
 
-### ⚡ One line that describes me best? 
-An ambitious person who loves to code, connect, compete, collaborate and sometime cooks too.😉😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varun-kumar-sde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-kumar-874b2217b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/1rn18is121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1rn18is121" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> </p>
